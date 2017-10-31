@@ -7,3 +7,4 @@
 6. Sumar todos los numeros sean pares e impares, los nuevo y viejos.
 7. Del resultado de la suma debemos dividirlo entre 10 y si el modulo es 0 entonces es VADLIDA cualquier otro resultado debe retornar INVALIDA.
 8. Fin
+![Diagrama de flujo](DDF_credit_card_test.jpg)
